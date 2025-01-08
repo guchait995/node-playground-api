@@ -1,0 +1,31 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Ocean View Suite",
+      "price": 250,
+      "currency": "USD",
+      "description": "A beautiful suite with a stunning ocean view.",
+      "image_url": "https://example.com/images/room1.jpg",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Mountain Retreat",
+      "price": 150,
+      "currency": "USD",
+      "description": "A peaceful retreat in the mountains.",
+      "image_url": "https://example.com/images/room2.jpg",
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "City Center Studio",
+      "price": 120,
+      "currency": "USD",
+      "description": "A modern studio in the heart of the city.",
+      "image_url": "https://example.com/images/room3.jpg",
+      "available": true
+    }
+  ]
+}
